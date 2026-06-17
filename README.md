@@ -23,9 +23,11 @@ Passo a passo (Windows e Linux)
 
 3. Instale as dependências
 O núcleo de inversão 2D exige o pygimli. Instale as dependências padrão através do pip:
+
 Bash
 
 pip install numpy pandas matplotlib scipy PySide6 odfpy pygimli
+
 (A biblioteca odfpy é necessária para leitura nativa de planilhas .ods).
 
 Estrutura e Importação de Arquivos
